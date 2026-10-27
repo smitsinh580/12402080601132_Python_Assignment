@@ -1,0 +1,14 @@
+[
+    {
+        "name": "prince",
+        "assignment": "2",
+        "marks": 10.0,
+        "status": "Completed"
+    },
+    {
+        "name": "mantra",
+        "assignment": "2",
+        "marks": 9.0,
+        "status": "Completed"
+    }
+]
